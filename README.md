@@ -2,4 +2,4 @@
 
 Ссылка на домен фронтенда: https://evdokiyafinaldz-frontend.nomoredomainswork.ru/
 
-IP-адрес: 158.160.161.45
+IP-адрес: 158.160.161.45 
