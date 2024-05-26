@@ -1,4 +1,7 @@
-const allowedCors = ["https://evdokiyafinaldz-frontend.nomoredomainswork.ru"];
+const allowedCors = [
+  "https://evdokiyafinaldz-frontend.nomoredomainswork.ru",
+  'http://localhost:3001',
+  'http://localhost:3000',];
 
 function cors(req, res, next) {
   const { origin } = req.headers;
